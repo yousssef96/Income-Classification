@@ -1,3 +1,4 @@
 mlruns.db
 
 .venv
+notebooks\mlruns
