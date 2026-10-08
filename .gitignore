@@ -1,4 +1,5 @@
 mlruns.db
-
 .venv
-notebooks\mlruns
+notebooks/mlruns
+ __pycache__/
+ .ipynb_checkpoints/
